@@ -20,4 +20,6 @@ cleaning, contour analysis, and sorting/searching of detected vehicle numbers.
 
 ## Usage
 1. Clone the repository:
-   
+   git clone https://github.com/akshat-HR07/Car-Number-Identification.git
+2. Run the main script:
+   python Program.py
