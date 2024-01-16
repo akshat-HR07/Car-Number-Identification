@@ -14,9 +14,8 @@ cleaning, contour analysis, and sorting/searching of detected vehicle numbers.
 - pytesseract
 
 ## Installation
-1. Install the required Python packages using the following command:
-   pip install opencv-python numpy Pillow pytesseract
-2. Install Tesseract OCR on your system.
+Install the required Python packages using the following command:
+pip install opencv-python numpy Pillow pytesseract
 
 ## Usage
 1. Clone the repository:
