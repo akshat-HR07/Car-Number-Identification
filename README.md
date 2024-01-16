@@ -1,4 +1,4 @@
-# Automatic Number Plate Detection for Indian Vehicles
+## Automatic Number Plate Detection for Indian Vehicles
 
 # Introduction
 This Python project focuses on Automatic Number Plate Detection (ANPR) for Indian 
