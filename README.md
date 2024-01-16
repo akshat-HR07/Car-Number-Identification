@@ -12,3 +12,8 @@ cleaning, contour analysis, and sorting/searching of detected vehicle numbers.
 - NumPy
 - Pillow (PIL)
 - pytesseract
+
+## Installation
+1. Install the required Python packages using the following command:
+   pip install opencv-python numpy Pillow pytesseract
+2. Install Tesseract OCR on your system. Refer to Tesseract Installation Guide for instructions.
